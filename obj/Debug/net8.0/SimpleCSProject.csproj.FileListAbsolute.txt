@@ -1,0 +1,14 @@
+D:\Omar\CSProjects\SimpleCSProject\bin\Debug\net8.0\SimpleCSProject.exe
+D:\Omar\CSProjects\SimpleCSProject\bin\Debug\net8.0\SimpleCSProject.deps.json
+D:\Omar\CSProjects\SimpleCSProject\bin\Debug\net8.0\SimpleCSProject.runtimeconfig.json
+D:\Omar\CSProjects\SimpleCSProject\bin\Debug\net8.0\SimpleCSProject.dll
+D:\Omar\CSProjects\SimpleCSProject\bin\Debug\net8.0\SimpleCSProject.pdb
+D:\Omar\CSProjects\SimpleCSProject\obj\Debug\net8.0\SimpleCSProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Omar\CSProjects\SimpleCSProject\obj\Debug\net8.0\SimpleCSProject.AssemblyInfoInputs.cache
+D:\Omar\CSProjects\SimpleCSProject\obj\Debug\net8.0\SimpleCSProject.AssemblyInfo.cs
+D:\Omar\CSProjects\SimpleCSProject\obj\Debug\net8.0\SimpleCSProject.csproj.CoreCompileInputs.cache
+D:\Omar\CSProjects\SimpleCSProject\obj\Debug\net8.0\SimpleCSProject.dll
+D:\Omar\CSProjects\SimpleCSProject\obj\Debug\net8.0\refint\SimpleCSProject.dll
+D:\Omar\CSProjects\SimpleCSProject\obj\Debug\net8.0\SimpleCSProject.pdb
+D:\Omar\CSProjects\SimpleCSProject\obj\Debug\net8.0\SimpleCSProject.genruntimeconfig.cache
+D:\Omar\CSProjects\SimpleCSProject\obj\Debug\net8.0\ref\SimpleCSProject.dll
